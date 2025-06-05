@@ -33,7 +33,10 @@ Redes Sociais:
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielschug&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielschug&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Atualmente estou estudando 
 - 🌱 Atualmente estou aprendendo Git & Github e pretendo iniciar um curso de PHP, pois não verei esta linguagem a faculdade
