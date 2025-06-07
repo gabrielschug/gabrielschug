@@ -5,12 +5,6 @@ Sou Gabriel Schug e estou cursando Análise e Desenvolvimento de Sistemas na Fac
 
 ## 💻 Linguagens:
 
-A primeira linguagem que estudei foi Python, para aprender automações nos canais do Youtube DevAprender e Hashtag Programação.
-
-Na falcudade iniciamos os estudo com Lógica de Programação utilizando JavaScript
-
-Pela curiosidade de automação de tarefas administrativas, aprendi Google Apps criando um aplicativo no Google AppSheet
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Apps](https://img.shields.io/badge/Google%20Apps%20Script-4285F4.svg?style=for-the-badge&logo=Google-Apps-Script&logoColor=white)
