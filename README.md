@@ -1,6 +1,6 @@
-# Bem-Vind@! 👋
+# Bem-Vind@! 👋🙂
 
-Sou Gabriel Schug e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade UniSENAC de Pelotas/RS.
+<p> Sou <b>Gabriel Schug</b> e estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na Faculdade <b>UniSENAC de Pelotas/RS</b>.
 
 
 ## 💻 Linguagens:
