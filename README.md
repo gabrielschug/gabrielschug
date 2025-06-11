@@ -13,8 +13,9 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<a  target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-A18C-9#google_vignette"><img src="[https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)"></a>
-<a  target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-A18C-9#google_vignette"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-A18C-9#google_vignette"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+<a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-A18C-9#google_vignette"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+
 
 ## 📚 Próximos Aprendizados:
 
