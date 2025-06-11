@@ -5,7 +5,8 @@
 
 ## 💻 Linguagens:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+<a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-6C61-1
+"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Apps](https://img.shields.io/badge/Google%20Apps%20Script-4285F4.svg?style=for-the-badge&logo=Google-Apps-Script&logoColor=white)
 
