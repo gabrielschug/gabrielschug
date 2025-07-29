@@ -14,8 +14,12 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-A18C-9#google_vignette"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-A18C-9#google_vignette"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a> 
 <a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-A18C-9#google_vignette"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <a target="_blank" href="https://www.udemy.com/certificate/UC-d15ed6a4-f115-4691-bd78-16a64b84734a/"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
 
 
