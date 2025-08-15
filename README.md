@@ -7,6 +7,7 @@
 
 <a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-6C61-1
 "><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Apps](https://img.shields.io/badge/Google%20Apps%20Script-4285F4.svg?style=for-the-badge&logo=Google-Apps-Script&logoColor=white)
 
@@ -26,7 +27,6 @@
 ## 📚 Próximos Aprendizados:
 
 
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
