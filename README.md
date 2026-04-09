@@ -28,13 +28,14 @@
 
 ## 🌐 Redes Sociais:
 
-#### [🌐 Meu portfólio](https://gabrielschug.com.br/)
-<a target="_blank" href="https://www.linkedin.com/in/gabrielschug/" rel="nofollow"><img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" href="https://github.com/gabrielschug" rel="nofollow"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+#### [🌐 Acesse Meu portfólio](https://gabrielschug.com.br/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielschug&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+<a target="_blank" href="https://www.linkedin.com/in/gabrielschug/" rel="nofollow"><img src="[https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+<a target="_blank" href="https://github.com/gabrielschug" rel="nofollow"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
 
 
 ## 🚀 Projetos em Destaque
+- [🖥️ Exercícios de Lógica de Programação com JavaScript](https://github.com/gabrielschug/algoritmos-javascript-pratica)
 - [⚙️ API de Pedidos (Node.js)](https://github.com/gabrielschug/api-pedidos)
