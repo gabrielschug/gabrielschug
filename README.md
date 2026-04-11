@@ -1,44 +1,56 @@
-# 👋 Olá, eu sou o Gabriel Schug  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** | 🚀 Futuro **Desenvolvedor Back-End**
+# 👋 Olá, eu sou o Gabriel Schug
 
+> **Transformando lógica de negócios em software seguro e escalável.**
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (UniSENAC) com foco direcionado para **Arquitetura Back-End e Bancos de Dados**. Tenho experiência profissional em gestão de almoxarifado, o que me deu uma base sólida e analítica sobre controle de processos, logística e consistência de dados — habilidades que agora aplico escrevendo código.
 
-## 💻 Linguagens / Tecnologias
+---
 
-![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+### 💻 Minha Stack Tecnológica
+
+**Back-End & Dados**
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-6C61-1
-"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Front-End**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-A18C-9#google_vignette"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a> 
-<a target="_blank" href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=E0184-A18C-9#google_vignette"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a target="_blank" href="https://www.udemy.com/certificate/UC-d15ed6a4-f115-4691-bd78-16a64b84734a/"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+**Ferramentas & Arquitetura**
 
-## 📚 Em Andamento / Próximos Aprendizados:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Tests-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+### 🚀 Projetos em Destaque
+
+* 🎯 **[LetsGoals](https://github.com/gabrielschug/letsgoals)** - Aplicação mobile para gestão de metas financeiras colaborativas (React, Tailwind, Context API).
+* 📚 **[Library Manager (POO)](https://github.com/gabrielschug/library-manager-typescript)** - Sistema em TypeScript construído para consolidar os 4 pilares da Orientação a Objetos, persistência de dados em arquivos e testes unitários.
+* 📦 **[Order Management API](https://github.com/gabrielschug/api-pedidos)** - API RESTful em Node.js e Express aplicando conceitos de Middlewares e validação UUID.
+* 🌐 **[Portfólio Pessoal](https://github.com/gabrielschug/gabrielschug-portfolio)** - Minha vitrine construída com manipulação de DOM via Vanilla JS e TailwindCSS, hospedada na Vercel.
+
+---
+
+### 📚 O que estou estudando agora
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-## 🌐 Redes Sociais:
+---
 
-#### [🌐 Acesse Meu portfólio](https://gabrielschug.com.br/)
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-<a target="_blank" href="https://www.linkedin.com/in/gabrielschug/" rel="nofollow"><img src="[https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-<a target="_blank" href="https://github.com/gabrielschug" rel="nofollow"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-
-
-## 🚀 Projetos em Destaque
-- [🖥️ Exercícios de Lógica de Programação com JavaScript](https://github.com/gabrielschug/algoritmos-javascript-pratica)
-- [⚙️ API de Pedidos (Node.js)](https://github.com/gabrielschug/api-pedidos)
+### 📬 Vamos nos conectar!
+[![Portfólio](https://img.shields.io/badge/Portfólio-2563eb?style=for-the-badge&logo=globe&logoColor=white)](https://gabrielschug.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielschug/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielschug@hotmail.com)
