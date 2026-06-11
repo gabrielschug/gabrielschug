@@ -1,10 +1,16 @@
+<div align="center">
+  
 # 👋 Olá, eu sou o Gabriel Schug
+
+</div>
 
 > **Transformando lógica de negócios em software seguro e escalável.**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** (UniSENAC) com foco direcionado para **Arquitetura Back-End e Bancos de Dados**. Tenho experiência profissional em gestão de almoxarifado, o que me deu uma base sólida e analítica sobre controle de processos, logística e consistência de dados — habilidades que agora aplico escrevendo código.
 
 ---
+
+<div align="center">
 
 ### 💻 Minha Stack Tecnológica
 
@@ -16,6 +22,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (UniSENAC) com foco 
 | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
 | | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Jest](https://img.shields.io/badge/Tests-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) |
 
+</div>
+
+
 ---
 
 ### 🚀 Projetos em Destaque
@@ -24,10 +33,14 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (UniSENAC) com foco 
 * 📚 **[Library Manager (POO)](https://github.com/gabrielschug/library-manager-typescript)** - Sistema em TypeScript construído para consolidar os 4 pilares da Orientação a Objetos, persistência de dados em arquivos e testes unitários.
 * 📦 **[Order Management API](https://github.com/gabrielschug/api-pedidos)** - API RESTful em Node.js e Express aplicando conceitos de Middlewares e validação UUID.
 * 🌐 **[Portfólio Pessoal](https://github.com/gabrielschug/gabrielschug-portfolio)** - Minha vitrine construída com manipulação de DOM via Vanilla JS e TailwindCSS, hospedada na Vercel.
-
+  
 ---
 
+<div align="center">
+  
 ### 📬 Vamos nos conectar!
-[![Portfólio](https://img.shields.io/badge/Portfólio-2563eb?style=for-the-badge&logo=globe&logoColor=white)](https://gabrielschug.com.br/)
+[![Meu Site](https://img.shields.io/badge/Portfólio-2563eb?style=for-the-badge&logo=globe&logoColor=white)](https://gabrielschug.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielschug/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielschug@hotmail.com)
+[![e-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabrielschug@hotmail.com)
+
+</div>
